@@ -1,4 +1,4 @@
-# Photography Website
+# photography_portfolio
 
 A basic website for a featured photographer, me!
 
